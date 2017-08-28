@@ -1,0 +1,8 @@
+[package]
+name = "virtual-currency-terminal"
+version = "0.1.0"
+authors = ["Alejandro Inetal <ainestal@gmail.com>"]
+
+[dependencies]
+clap = "2.26.0"
+coinnect = "0.5.2"
